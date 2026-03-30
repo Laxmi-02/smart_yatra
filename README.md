@@ -47,8 +47,7 @@ SmartYatra is a comprehensive bus booking application that simplifies the proces
 
 ### 🌍 Additional Features
 - Multi-language support (6 languages)
-- Ticket history & cancellation
-- Reviews & ratings
+- Ticket history & cancellation- Reviews & ratings
 
 ---
 
@@ -82,4 +81,19 @@ flutter run -d chrome
 
 ---
 
-## 📁 Project Structure
+## 🔮 Future Enhancements
+
+- [ ] Firebase backend integration
+- [ ] Real payment gateway (Razorpay/Stripe)
+- [ ] Push notifications
+- [ ] Admin panel
+- [ ] Dark mode
+
+---
+
+<div align="center">
+
+**Developed by Laxmi**
+
+**Made with ❤️ using Flutter**
+</div>
