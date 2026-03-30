@@ -81,15 +81,6 @@ flutter run -d chrome
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Firebase backend integration
-- [ ] Real payment gateway (Razorpay/Stripe)
-- [ ] Push notifications
-- [ ] Admin panel
-- [ ] Dark mode
-
----
 
 <div align="center">
 
