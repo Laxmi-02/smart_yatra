@@ -1,17 +1,41 @@
-# smart_yatra
+# 🚌 SmartYatra - Bus Booking App
 
-A new Flutter project.
+A complete bus booking application built with Flutter.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ✅ Login/OTP (Phone & Email)
+- ✅ Bus Search & Booking
+- ✅ Seat Selection
+- ✅ Payment Flow
+- ✅ Ticket Management
+- ✅ Digital Wallet
+- ✅ Live Chat Support
+- ✅ Bus Tracking (Map)
+- ✅ Multi-language Support
+- ✅ SOS Emergency
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design 3
+- OpenStreetMap
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+
+```bash
+git clone https://github.com/Laxmi-02/smart_yatra.git
+cd smart_yatra
+flutter pub get
+flutter run -d chrome
+```
+
+## 👨‍ Developer
+
+**Laxmi**
+- GitHub: [@Laxmi-02](https://github.com/Laxmi-02)
+
+---
+
+**Made with ❤️ using Flutter**
