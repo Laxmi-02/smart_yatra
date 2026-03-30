@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647403449779",
+    "project_id": "smartyatra-e60ad",
+    "storage_bucket": "smartyatra-e60ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647403449779:android:38b8051dd644dfc6196fc6",
+        "android_client_info": {
+          "package_name": "com.example.smartyatra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSi3sv9BWj0WmxWTCujboZIFUQCgoz8xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
